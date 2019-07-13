@@ -59,13 +59,18 @@ export default class App extends React.Component {
       
       return(
       <ImageBackground source={require('./assets/99570cb3499312649e672ddb400a014f.jpg')} style={{width: '100%', height: '100%'}}>
-      
-      <View style={{flex:1,alignItems:'center',justifyContent:'center'}}>
-      <Text style={{ fontSize:40,fontWeight:'bold'}}>QUIZ WHIZ ⚡</Text>
-      <Text  >by HAKEEMULLAH JAN YOUSUFZAI</Text>
-      <ActivityIndicator size="large" color="#000000" />
+
+        <View   style={{ flex: 1,flexDirection: 'column',justifyContent: 'space-between',alignItems:'center',}}>
+          
+      <View></View>      
+      <View >
+      <Text style={{ fontSize:40,fontWeight:'bold',fontFamily:'Academy Engraved LET'}}>QUIZ WHIZ ⚡</Text>
+      <Text   >by HAKEEMULLAH JAN YOUSUFZAI</Text>
       </View>
-      
+      <View style={{marginBottom:10}} ><ActivityIndicator size="large" color="#000000" /></View>
+
+        </View>
+            
        </ImageBackground>
       )
       
@@ -82,7 +87,7 @@ export default class App extends React.Component {
     else if(!isCameraOpen && !isQuizStart){
       return (
         <View style={styles.container}>
-          <Text style={{fontSize:30,fontWeight:'bold'}} >QUIZ WHIZ ⚡</Text>
+          <Text style={{fontSize:30,fontWeight:'bold',fontFamily:'Academy Engraved LET'}} >QUIZ WHIZ ⚡</Text>
           {/* <Button title='detect face' onPress={()=>this.setState({isCameraOpen:true})} /> */}
 
 
