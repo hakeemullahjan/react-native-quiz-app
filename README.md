@@ -12,4 +12,6 @@ yarn
 
 OR
 
-```npm install```
+```
+npm install
+```
