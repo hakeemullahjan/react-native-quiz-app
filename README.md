@@ -30,4 +30,4 @@ the application.
 Watch the application video [here](https://drive.google.com/drive/folders/154LcdIYMcOao6_sj7hTHSwoACorZ0jwq)
 
 ## Author
-HAKEEMULLAH JAN YOUSUFZAI @hakeemullahjan
+HAKEEMULLAH JAN YOUSUFZAI [@hakeemullahjan](https://github.com/hakeemullahjan)
