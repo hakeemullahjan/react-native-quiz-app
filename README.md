@@ -15,3 +15,5 @@ OR
 ```
 npm install
 ```
+
+##Running the Project
