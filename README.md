@@ -1,1 +1,3 @@
-# react-native-quiz-app
+# React Native Quiz App with Open Trivia Database API
+
+###### About
