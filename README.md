@@ -27,4 +27,4 @@ the application.
 
 ## Demo
 
-Watch the video [here]()
+Watch the app video [here](https://drive.google.com/drive/folders/154LcdIYMcOao6_sj7hTHSwoACorZ0jwq)
