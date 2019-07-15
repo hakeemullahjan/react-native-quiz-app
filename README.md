@@ -6,7 +6,9 @@ React Native Quiz App with Open Trivia Database API
 
 THEN
 
-```yarn```
+```
+yarn
+```
 
 OR
 
