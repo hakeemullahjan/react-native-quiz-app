@@ -24,3 +24,7 @@ expo start
 
 It will start the React Native packager and print a **_QR code_**. Scanning this code with the **_Expo app_** [Android device](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=en) OR [IOS device](https://apps.apple.com/us/app/expo-client/id982107779) will load
 the application.
+
+## Demo
+
+Watch the video [here]()
