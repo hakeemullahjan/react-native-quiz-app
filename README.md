@@ -1,5 +1,5 @@
 ## About
 React Native Quiz App with Open Trivia Database API
 
-##Installation
+## Installation
 **Clone or download the _code_** 
